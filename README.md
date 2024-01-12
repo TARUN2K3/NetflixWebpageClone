@@ -21,10 +21,10 @@ This project is a simple HTML and CSS recreation of the Netflix landing page, of
 
 ## Contributing
 If you'd like to contribute to this project, please follow these steps:
-1.Fork the repository.
-2.Create a new branch for your feature or bug fix.
-3.Make your changes and commit them.
-4.Push to your fork and submit a pull request.
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit them.
+- Push to your fork and submit a pull request.
 
 1. Clone this repository:
 
