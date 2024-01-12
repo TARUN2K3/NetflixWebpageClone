@@ -32,5 +32,5 @@ If you'd like to contribute to this project, please follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/netflix-landing-page.git
+   git clone https://github.com/TARUN2K3/Netflix/blob/6e911cece3085b84b63f994cb82398b0e2a2f399/bharat/netflix.html
 
